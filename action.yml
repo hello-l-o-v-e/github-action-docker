@@ -1,5 +1,5 @@
-name: 'build docker image'
-description: 'build docker image'
+name: 'build docker image12'
+description: 'build docker image12'
 inputs:
   docker_hub_user:  # id of input
     description: 'docker hub user'
